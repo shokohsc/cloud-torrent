@@ -1,3 +1,3 @@
-FROM jpillora/cloud-torrent
+FROM boypt/cloud-torrent
 
 RUN apk add --no-cache curl
